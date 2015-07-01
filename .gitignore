@@ -1,0 +1,32 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Compiled source #
+###################
+*.o
+
+# Folders #
+###########
+
+# Other files #
+###############
+lex.yy.c
+y.tab.c
+y.tab.h
+y.output
+/compiler/lex.yy.c
+/compiler/y.tab.c
+/compiler/y.tab.h
+/compiler/y.output
+scc
+*.java
+*.jar
+!drjava.jar
+*.class
